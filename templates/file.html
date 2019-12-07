@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,700&display=swap" rel="stylesheet">
+    <title>See In the Dark</title>
+    <style>
+    	html{
+    		height: 100%;
+    		background-color: black;
+    		font-family: 'Fira Sans Condensed', sans-serif;
+
+    	}
+    	.center-div-nn{
+    		text-align: center;
+    		display: flex;
+    		justify-content: center;
+    		height: 80vh;
+    		align-items: center;
+    	}
+    	.padding-nn{
+    		padding:10px;
+    	}
+    	.rborder{
+    		/*border: 2px solid grey;*/
+    		margin: 10px;
+    		border-radius: 15px;
+    		background: #80808052;
+    	}
+    	h1{
+    		color:#39FF14;
+    	}
+    	input{
+    		background-color: black;
+    		color:white;
+    		border-radius: 10px;
+    	}
+    	.color-black{
+    		font-family: 'Fira Sans', sans-serif;
+    		background: black;
+    		color:#39FF14;
+    		font-weight: 700;
+    	}
+    </style>
+</head>
+<body>
+	<div class="center-div-nn padding-nn">
+    <form action="/" method="post" enctype="multipart/form-data">
+        <h1>See In The Dark</h1>
+        <div class="rborder padding-nn">
+       		<input type="file" name="fileToUpload" id="fileToUpload">
+       	</div>
+       	<div >
+        	<input class="rborder padding-nn color-black" type="submit" value="Upload Image" name="submit">
+        </div>
+    </form>
+    <div>
+</body>
+</html>
