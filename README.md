@@ -1,4 +1,4 @@
-# SeeInDark
+# See In Dark
 
 ## Description
 - This project is aimed at creating a solution to tackling the problem of Low Light Photography Using Simplified Fully Convolutional Neural Networks. 
