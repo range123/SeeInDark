@@ -27,8 +27,8 @@ flask run
 
 ## Screenshots
 
-![MainPage](https://www.github.com/range123/SeeInTheDark/screenshots/blob/master/screenshots/1.png)
-![Results](https://www.github.com/range123/SeeInTheDark/screenshots/blob/master/screenshots/2.png)
+![MainPage](https://www.github.com/range123/SeeInDark/screenshots/blob/master/screenshots/1.png)
+![Results](https://www.github.com/range123/SeeInDark/screenshots/blob/master/screenshots/2.png)
 
 
 
